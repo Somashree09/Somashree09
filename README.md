@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Somashree 👋</h1>
-<h3 align="center">Aspiring Data Scientist & ML Engineer | Student 🎓</h3>
+<h3 align="center">Food Process Engineer → Aspiring Data Scientist 🍱📊</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/somashree09" target="_blank">
@@ -8,39 +8,56 @@
   <a href="https://github.com/somashree09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Final%20Year-Student-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👩‍🎓 About Me
 
-I am a passionate **student** diving deep into Data Science and Machine Learning — building projects, learning every day, and turning data into meaningful insights.
+I am a **final year Food Process Engineering student** with a strong passion for **Data Science and Machine Learning**. I bring a rare and valuable combination — domain expertise in food systems and engineering, powered by data-driven thinking.
 
-- 🎓 Currently pursuing my degree, focused on **Data Science & AI**
-- 🔍 Learning **Machine Learning**, **Deep Learning**, and **Data Analytics**
-- 🌱 Exploring **PyTorch**, **TensorFlow**, and real-world ML applications
-- 🤝 Looking to collaborate on **beginner-friendly & open-source ML projects**
-- 💼 **Open to Internships** — eager to apply my skills in a real-world environment
-- 📫 Reach me at: **[your.email@example.com]**
+- 🍱 Degree in **Food Process Engineering** — transitioning into **Data Science & AI**
+- 🎓 **Final Year student** — graduating soon and actively looking for a job
+- 🔍 Self-taught in **Python, ML, and Deep Learning** alongside my engineering degree
+- 💡 Passionate about applying data science to **Food Tech, AgriTech & Supply Chain**
+- 🌱 Currently building a **Data Science portfolio** with real-world projects
+- 💼 **Open to Work** — fresher roles in Data Science, ML, or Food-Tech Analytics
+- 📫 Reach me at: **[somashreehalder070@gmail.com]**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core Libraries**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data Science & ML Libraries**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Data Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Web Frameworks & Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 **Tools & Platforms**
 
@@ -66,30 +83,69 @@ I am a passionate **student** diving deep into Data Science and Machine Learning
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔬 [Project Name](https://github.com/somashree09) | Brief description of your ML project | Python, Scikit-learn |
-| 📊 [Project Name](https://github.com/somashree09) | Brief description of your data analysis project | Pandas, Matplotlib |
-| 🤖 [Project Name](https://github.com/somashree09) | Brief description of your deep learning project | PyTorch, TensorFlow |
+### ⚡ EV Analysis
+> Exploratory data analysis on Electric Vehicle adoption trends — uncovering patterns in EV registrations, range, pricing, and market growth using Python and interactive visualizations.
 
-> 💡 *Replace the above with your actual projects!*
+**Tech:** Python • Pandas • Matplotlib • Plotly • Seaborn
 
 ---
 
-## 📈 What I'm Learning
+### 🥗 Diet Recommendation System
+> A smart recommendation system that suggests personalized diet plans based on nutritional requirements, health goals, and food preferences — combining my food engineering knowledge with ML.
+
+**Tech:** Python • Scikit-learn • Streamlit • Pandas
+
+---
+
+### 🌾 Agriculture Price Forecasting
+> A time-series forecasting model that predicts agricultural commodity prices to help farmers and traders make informed decisions — bridging my domain knowledge with data science.
+
+**Tech:** Python • Pandas • Scikit-learn • Matplotlib • Flask
+
+---
+
+## 🌱 My Journey
 
 ```
-✦ Supervised & Unsupervised Learning     ✦ Neural Networks & Deep Learning
-✦ Data Wrangling & EDA                   ✦ Model Building & Evaluation
-✦ Statistical Analysis                   ✦ Data Visualization
+📚 Joined Food Process          🐍 Discovered Python &        📊 Fell deep into
+   Engineering Degree      →       started coding         →      Data Science & ML
+   (non-CS background)             (self-taught)                  (self-driven passion)
+
+        ↓
+🔬 Built 3 real-world          🚀 Learning deployment         🎯 Final Year —
+   projects: EV, Diet,    →      with Flask, Streamlit,  →      Ready & Actively
+   Agri Forecasting               Docker & Kubernetes           Looking for a Job!
+```
+
+---
+
+## 🎯 Where I Want to Apply Data Science
+
+```
+🍱 Food Tech & Quality Analytics         🌾 AgriTech & Precision Farming
+🏭 Food Manufacturing Optimization       📦 Supply Chain & Demand Forecasting
+🔬 Food Safety & Predictive Maintenance  🌍 Sustainability & Climate Data
 ```
 
 ---
 
 <p align="center">
-  <i>"Every dataset is a story waiting to be told."</i>
+  <i>"From fields to features — feeding the world with data." 🌾📊</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=somashree09&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
